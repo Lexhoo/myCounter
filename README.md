@@ -1,2 +1,0 @@
-# myCounter
-Created with CodeSandbox

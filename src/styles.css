@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  /*border: 5px solid red;*/
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-color: #282a36;
+  color: #f8f8f2;
+}
+
+h1 {
+  transform: rotate(-8deg);
+}
+
+#counter {
+  font-size: 8em;
+  margin: 0;
+  filter: blur(32px);
+  transition: 200ms;
+}
